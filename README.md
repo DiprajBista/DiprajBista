@@ -3,7 +3,33 @@
 
 This GitHub contains the various class project completed for the fulfillment of the Master of Data Science degree. 
 
-Skills: PYTHON / R PROGRAMMING/ SQL/ TABLEAU
+
+## Skills and Tools
+
+**Languages:**  
+- 🐍 Python  
+- 📊 R  
+- 🛢️ MySQL  
+- 💻 C  
+- 💻 C++  
+- ☕ Java  
+
+**Libraries:**  
+- 🤖 Scikit-Learn  
+- 🔥 PyTorch  
+- 🧠 TensorFlow  
+- 🐼 Pandas  
+- 📊 Matplotlib  
+- 🔢 numpy  
+
+**Tools and Environments:**  
+- ☁️ AWS SageMaker  
+- 🖥️ Visual Studio Code  
+- 🧪 Google Colaboratory  
+- 📒 Jupyter Lab  
+- 🐙 GitHub  
+
+## About Me
 
 - 🔭 I’m currently working on Data Science and Machine learning.  
 - 📫 How to reach me: https://github.com/DiprajBista 
